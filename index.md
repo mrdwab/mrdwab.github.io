@@ -1,7 +1,6 @@
 ---
 title: "mrdwab.github.io"
 author: "Ananda Mahto"
-date: "6/20/2020"
 output: ioslides_presentation
 ---
 
